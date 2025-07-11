@@ -2,7 +2,7 @@
 
 int main() {
     printf("Which table you want to print:\n");
-    int input;
+    float input;
     scanf("%f", &input); // Use "%d" format specifier for integer input                              
 
     for(int i = 1; i <= 10; i++) {
